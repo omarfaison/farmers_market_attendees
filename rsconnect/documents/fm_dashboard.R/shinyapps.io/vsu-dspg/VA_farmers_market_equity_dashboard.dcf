@@ -1,0 +1,14 @@
+name: VA_farmers_market_equity_dashboard
+title: VA_farmers_market_equity_dashboard
+username:
+account: vsu-dspg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11145617
+bundleId: 8224920
+url: https://vsu-dspg.shinyapps.io/VA_farmers_market_equity_dashboard/
+when: 1707230956.62268
+lastSyncTime: 1707230956.62269
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|acs_places_rural_food.RDS|faison_test_script.R|fm_county_dots.R|fm_dashboard_data_poc.R|fm_dashboard_data_prep.R|PLACES_23.csv|PLACES_23_ctlevel.csv|README.md|VA-lat-long.csv|va_demos.RDS
